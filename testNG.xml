@@ -1,0 +1,10 @@
+<suite name="Testing Apps">
+    <test name="Regression">
+        <classes>
+            <class name="example.Object.AddProduct"/>
+            <class name="example.Object.Login"/>
+        </classes>
+    </test>
+    <!--  Test  -->
+</suite>
+<!--  Suite  -->
